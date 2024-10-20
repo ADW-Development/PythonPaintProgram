@@ -6,9 +6,9 @@
 
 ## Module Installation / Setup
 
-```git clone <repo-url>```
+```git clone https://github.com/ADW-Development/PythonPaintProgram.git```
 
-```cd <repo-folder>```
+```cd PythonPaintProgram```
 
 ```pip install -r requirements.txt```
 
